@@ -1,2 +1,2 @@
-# Core-Java-Programming
-Core Java Programming
+# Java-Programming
+Java Programming Core concepts
